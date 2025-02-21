@@ -1,2 +1,3 @@
 # my-pramiry-repo
-is my pramiry repositorie in sptech school
+is my pramiry repositori in sptech school
+
